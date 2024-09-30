@@ -10,3 +10,5 @@ Our [plugins](https://github.com/Fish-Community/fish-commands/) are open source:
 * Hexed IP address: `162.248.101.53`
 
 Join our [discord server](https://discord.gg/VpzcYSQ33Y) for more information.
+
+![Person holding a fish](https://raw.githubusercontent.com/Fish-Community/.github/main/branding/praise-the-fish.png)
