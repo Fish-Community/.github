@@ -6,8 +6,9 @@ Our [plugins](https://github.com/Fish-Community/fish-commands/) are open source:
 ## Fish Mindustry servers
 * Survival IP address: `162.248.101.95`
 * Attack IP address: `162.248.100.98`
-* PvP IP address: `162.248.100.133`
-* Hexed IP address: `162.248.101.53`
+* PvP IP address: `162.248.101.53`
+* Hexed IP address: `162.248.100.133`
+* Sandbox IP address: `162.248.102.101`
 
 Join our [discord server](https://discord.gg/VpzcYSQ33Y) for more information.
 
