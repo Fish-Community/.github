@@ -7,8 +7,12 @@ Our [plugins](https://github.com/Fish-Community/fish-commands/) are open source:
 * Survival IP address: `162.248.101.95`
 * Attack IP address: `162.248.100.98`
 * PvP IP address: `162.248.101.53`
-* Hexed IP address: `162.248.100.133`
 * Sandbox IP address: `162.248.102.101`
+* Minigames IP address: `162.248.101.116`
+* Testing Server IP address: `162.248.101.52`
+
+## Fish Minecraft SMP
+* Vanilla, 1.21.11, address: `fish-gaming.xyz`
 
 Join our [discord server](https://discord.gg/VpzcYSQ33Y) for more information.
 
