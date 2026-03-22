@@ -1,5 +1,5 @@
 # Fish
-![Fish Logo](https://raw.githubusercontent.com/Fish-Community/.github/main/branding/fish-logo.png)
+<img alt="Fish Logo" src="https://raw.githubusercontent.com/Fish-Community/.github/main/branding/fish-logo.png" width=128>
 
 Our [plugins](https://github.com/Fish-Community/fish-commands/) are open source: anyone can submit a contribution!
 
